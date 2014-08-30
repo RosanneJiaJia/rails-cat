@@ -33,11 +33,11 @@ color: #000000;
 
 
 
-.navbar-default .navbar-nav > .active > a {b
-	ackground:  #003472 !important;
-	color: #ffffff;
+.navbar-default .navbar-nav > .active > a {
+	background:  #003472 !important;
+	color: #808080;
 }
-.navbar a.brand { font-size: 18px; color: #ffffff;}
+.navbar a.brand { font-size: 18px; color: #808080;}
 .navbar a.brand:hover {
  color: #ffffff;
  background-color: transparent;
